@@ -1,0 +1,26 @@
+#oppa-search-submit
+{
+	float: right;
+	margin-top: 20px;
+}
+
+.panel-heading .progress
+{
+	margin-bottom: 0px;
+}
+
+.list-group-item:first-letter
+{
+	text-transform: capitalize;
+}
+
+.navbar-default .nav.navbar-nav li:hover
+{
+	background: #f3f3f3;
+	color: white;
+}
+
+.navbar-default .nav.navbar-nav li:hover a
+{
+	color: #333;
+}

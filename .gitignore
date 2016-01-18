@@ -1,0 +1,6 @@
+*.DS_Store
+
+build/
+
+assets/boomerang/boomerang.js
+assets/boomerang/images/
